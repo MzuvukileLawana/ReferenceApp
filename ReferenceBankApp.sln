@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27705.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceBankApp", "ReferenceBankApp\ReferenceBankApp.csproj", "{5576A66F-03BE-4A89-8EFD-2BB852AA00DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5576A66F-03BE-4A89-8EFD-2BB852AA00DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5576A66F-03BE-4A89-8EFD-2BB852AA00DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5576A66F-03BE-4A89-8EFD-2BB852AA00DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5576A66F-03BE-4A89-8EFD-2BB852AA00DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77BF9439-A4F2-4F4C-B537-1A88D9F1B39B}
+	EndGlobalSection
+EndGlobal
